@@ -57,3 +57,12 @@ Reason: Unknown. Please check power and cabling to target.
 1. On the right side in *"Server"* type path to st-util. For me it was */usr/local/bin/st-util* . After that press *"Apply"* and *"OK"*.
 1. In the "Debug Configurations" dialog press *"Debug"* to start debugging.
 
+
+## How to create FreeRTOS project on STM32VLDiscorevy on Linux.
+
+1. Go to *"File->New->Download new example project from TrueSTORE"*.
+1. Type *stm32vl* and select *"STM32VL_Discovery_FreeRTOS_Simple_Demo"*.
+1. Press *"Finish"* button.
+
+
+
